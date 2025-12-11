@@ -1,0 +1,7 @@
+# Folder editor
+.vscode/
+.idea/
+
+# File sementara
+*.bak
+*.tmp
