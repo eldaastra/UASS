@@ -67,7 +67,7 @@ nav .nav-right a:hover {
 
     <div class="nav-right">
         <a href="index.php">Home</a>
-        <a href="tentang.php">Tentang Kami</a>
+        <a href="tentang.php">Tentang</a>
         <a href="kontak.php">Kontak</a>
     </div>
 </nav>
